@@ -2,6 +2,8 @@
 
 2/8 and 2/9
 
+**Labs in class exercise**
+
 ## Topics Covered
 
 - Data Types
