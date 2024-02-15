@@ -12,8 +12,6 @@
 
 ## Learning Objectives
 
-By the end of this week, you should be able to:
-
 - Understand different data types in Java and their uses
 - Use conditional statements to control the flow of your program
 - Implement loops to repeat a set of instructions
