@@ -1,6 +1,8 @@
-# Pushing Java Code to GitHub using VSCode or IntelliJ IDEA
+# CSC229 PAL Session Plan - Week 2
 
-### Week-2 :: 2/1 and 2/2
+## Week-2 :: 2/1 and 2/2
+
+## Pushing Java Code to GitHub using VSCode or IntelliJ IDEA
 
 ## Using Visual Studio Code (VSCode):
 

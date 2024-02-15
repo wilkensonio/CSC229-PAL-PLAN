@@ -1,4 +1,4 @@
-# CSC229 Study Plan - Week 3
+# CSC229 PAL Session Plan - Week 3
 
 2/8 and 2/9
 

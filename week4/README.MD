@@ -1,4 +1,6 @@
-# PAL Session Plan 2/15 and 2/16
+# CSC229 PAL Session Plan - Week 4
+
+2/15 and 2/16
 
 ## Introduction to For Loops:
 

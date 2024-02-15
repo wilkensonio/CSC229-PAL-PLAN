@@ -1,6 +1,8 @@
-# Introduction to Git and GitHub:
+# CSC229 PAL Session Plan - Week 1
 
 ### **Week 1 1/25 and 1/26**
+
+### Introduction to Git and GitHub:
 
 - Getting Started with Git:
 - Installation and Setup:
